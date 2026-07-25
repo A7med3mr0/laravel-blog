@@ -196,7 +196,7 @@
         <!-- Header Wrapper (Includes Title and Create Button) -->
         <div class="header-wrapper">
             <div class="header">
-                <h2>Blog Articles Management "Ahmed"</h2>
+                <h2>Blog Articles Management</h2>
                 <p>View, edit, or delete existing blog posts seamlessly.</p>
             </div>
 
