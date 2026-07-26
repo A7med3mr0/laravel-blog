@@ -220,7 +220,11 @@
                 </div>
 
                 <!-- Category -->
-                
+                <div class="form-group">
+    <label for="email">Author Email</label>
+    <input type="email" id="email" name="email" placeholder="Your Email" required>
+</div>
+
             </div>
 
             <!-- Cover Image -->
