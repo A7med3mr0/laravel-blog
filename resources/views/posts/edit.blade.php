@@ -228,7 +228,12 @@
                     <label for="author">Author Name</label>
                     <input type="text" id="author" name="author_name" value="{{ $post->author_name }}" required>
                 </div>
-                
+
+                <div class="form-group">
+    <label for="email">Author Email</label>
+    <input type="email" id="email" name="email" placeholder="Your Email" required>
+</div>
+
             </div>
 
             <div class="form-group">
